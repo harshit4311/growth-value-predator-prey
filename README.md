@@ -1,9 +1,9 @@
 # growth-value-predator-prey
 
-Datasets used: 
+### Datasets used: 
 - Russell-1000-growth
 - Russell-1000-value
 - Russell-1000-core
 
-Observations:
+### Observations:
 - Exactly follows the predator-prey-style cycles
